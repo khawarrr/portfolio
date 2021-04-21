@@ -466,3 +466,11 @@ img{
     right: 10%;
   }
 }
+
+
+.thankyou {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 30%;
+}
